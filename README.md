@@ -1,4 +1,4 @@
-# C-Learning-Journey
+# FOCP-I_C_Programming_Workspace
 ## 📚 My Learning Progress
 
 | File Name | Purpose | Status |
